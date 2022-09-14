@@ -1,5 +1,5 @@
-// https://codeforces.com/problemset/problem/339/A?locale=en
-// A. Helpful Maths
+// https://codeforces.com/problemset/problem/339/A
+// Helpful Maths
 
 fun main() {
     val string = readln().split("+") // read string from input, save numbers only
