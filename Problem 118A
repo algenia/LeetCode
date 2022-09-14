@@ -1,5 +1,6 @@
 // https://codeforces.com/problemset/problem/118/A
 // String Task
+
 fun main() {
     val line = readln().lowercase() // read string from input, decapitalize
     val result = arrayListOf("")
