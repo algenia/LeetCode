@@ -1,1 +1,1 @@
-Codeforces problems & solutions in Kotlin
+LeetCode problems & solutions in Kotlin
